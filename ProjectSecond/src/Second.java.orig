@@ -1,0 +1,23 @@
+
+public class Second {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("First line");
+		System.out.println("Second Line");
+		System.out.println("Third line");
+		System.out.println("Fifth"); 
+		System.out.println("After Fifth");
+		System.out.println("Seventh");
+		//eight
+<<<<<<< HEAD
+		//nine
+		 
+=======
+		//eight + 
+>>>>>>> 6bb7482acb4cf2aa4bf69d96c77c01a0f130df6b
+		
+	}
+
+}
