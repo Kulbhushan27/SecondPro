@@ -12,8 +12,9 @@ public class First {
 		System.out.println("Fifht Line");
 		System.out.println("After Fifth");
 		System.out.println("Sixth Line");
-		System.out.println("Seventh Line");
 		System.out.println("After Sixth");
+		System.out.println("Seventh Line");
+		
 	}
 
 }

@@ -15,8 +15,8 @@ public class First {
 		System.out.println("Sixth Line");
 		System.out.println("Seventh Line");
 =======
-		System.out.println("After Sixth");
 >>>>>>> 9be446d8ad8ad543e5f3c18ae15314c1fba65352
+		System.out.println("After Sixth");
 	}
 
 }
