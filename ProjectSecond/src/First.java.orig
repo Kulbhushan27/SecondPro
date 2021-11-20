@@ -10,11 +10,13 @@ public class First {
 		System.out.println("After Third");
 		System.out.println("Fourth Line");
 		System.out.println("Fifht Line");
+		System.out.println("After Fifth");
 <<<<<<< HEAD
 		System.out.println("Sixth Line");
+		System.out.println("Seventh Line");
 =======
-		System.out.println("After Fifth");
->>>>>>> 927d3bcf59dd70b24eb427986ecd392e3e85bc10
+		System.out.println("After Sixth");
+>>>>>>> 9be446d8ad8ad543e5f3c18ae15314c1fba65352
 	}
 
 }
